@@ -1,5 +1,14 @@
 ## Olá eu sou o Lucas Azeredo, Desenvolverdor Frontend!
 
+<a href="https://github.com/ytavares/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ytavares&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" />
+</a>
+<a href="https://github.com/ytavares/convoychat">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytavares&layout=compact&langs_count=8&theme=dracula" />
+</a>
+
+## :wrench: Technologies
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Lucas-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">

@@ -1,11 +1,7 @@
-## Olá eu sou o Lucas Azeredo, Desenvolverdor Frontend!
+## Olá eu sou o Lucas Azeredo!
 
-<a href="https://github.com/ytavares/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ytavares&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" />
-</a>
-<a href="https://github.com/ytavares/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytavares&layout=compact&langs_count=8&theme=dracula" />
-</a>
+- 💼 Desenvolvedor front-end
+- 💬 Contate-me no email: lucas.azeredo19@gmail.com
 
 ## :wrench: Technologies
 

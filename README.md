@@ -1,4 +1,4 @@
-## Olá eu sou o Lucas Azeredo!
+## Olá, eu sou o Lucas Azeredo!
 
 - 💼 Desenvolvedor front-end
 - 💬 Contate-me no email: lucas.azeredo19@gmail.com
